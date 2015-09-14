@@ -1,10 +1,13 @@
 #include <iostream>
+#include "Math.h"
 
 int main()
 {
-	std::cout << "Hello World!";
+	Math math;
+	int result=math.product(3, 4);
+	std::cout << "Hello World!" << result;
 
-	std::cout << "Second commit";
+	std::cin >> result;
 
 
 }
