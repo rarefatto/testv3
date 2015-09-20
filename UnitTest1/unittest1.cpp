@@ -13,13 +13,13 @@ namespace UnitTest1
 		TEST_METHOD(TestMethod1)
 		{
 			Math math;
-			Assert::AreEqual(math.product(3, 2), 6);
+			Assert::AreEqual(math.product(3, 2), 6);  
 		}
 
 		TEST_METHOD(TestMethod2)
 		{
 			Math math;
-			Assert::AreEqual(math.product(3, 2), 7);
+			Assert::AreEqual(math.product(3, 3), 9);
 		}
 
 	};
