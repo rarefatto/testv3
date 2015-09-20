@@ -65,7 +65,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Math.cpp" />
+    <ClCompile Include="MyMath.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyMath.h" />

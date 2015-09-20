@@ -1,7 +1,6 @@
-#include "stdafx.h"
 #include "CppUnitTest.h"
-
-#include "../TestGit/Math.h"
+#include "stdafx.h"
+#include "../TestGit/MyMath.h"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
