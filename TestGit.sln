@@ -11,6 +11,7 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
 		Release|Win32 = Release|Win32
+		Description = Descrizione123
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{47360BCE-9C65-44D4-8206-A3B16FABD7D2}.Debug|Win32.ActiveCfg = Debug|Win32
